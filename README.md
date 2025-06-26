@@ -49,7 +49,7 @@ This project predicts whether a person is an **Introvert** or an **Extrovert** b
 
 ## 📊 Example Input & Output
 
-![Prediction Example]("C:\Users\hassa\Downloads\Project\assets\introvert-ui.png")
+![Prediction Example]("Project\assets\introvert-ui.png")
 
 Input:
 
