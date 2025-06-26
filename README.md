@@ -64,7 +64,7 @@ Input:
 
 ## 📊 Visual Insights
 
-![Power BI Report](assets/power_bi_dashboard.png)
+![Power BI Report](Project/assets/power_bi_dashboard.png)
 
 ---
 
