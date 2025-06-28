@@ -68,20 +68,4 @@ Input:
 
 ---
 
-## 🌐 Live Preview (Optional)
 
-For a future version, this project can be deployed using Streamlit for live interaction.
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## 🙌 Acknowledgments
-
-This project was built as part of a data science skill development plan.
-
-Feel free to fork and contribute. Feedback is welcome!
